@@ -1,0 +1,19 @@
+Installation Instruction:
+1.	Download the NeuralTree.zip file.
+2.	Extract to the target directory.
+3.	Click to the NeuralTree folder contains [executable jar file] to start the application.
+4.	The tool is platform independent.  Therefore it can run on mac, linux, windows. System. There few example data files are given in the system. Let it be in the directory where the Ostrava.zip file is extracted.
+5.	The results can be saved anywhere in the system. Please note you will get three file will be saved while saving the result. These are “filenameModel.fnt”, filenameResult.txt” and “filenameImage.png”.
+6.	If it is needed to the user for plotting the results in MSEXCEL or any other tools for that matter. They can get the target and predicted values in the same directory where the “Ostrava.zip” file is extracted in the name “OutputTest.csv”, OutputTrain.csv”.
+Linux user: 
+The users can start the application by opening the “jar” file by right clicking on the jar file and may select the option “Open with Execute jar file” option. 
+If the sample data is not loaded chose it using the “Chose another file and select the sample dataset from the directory, where ”output_jar.zip” is extracted. 
+
+Caution:
+If any unexpected computational malfunction occurred, the tool may close without any notification. In such case re-start the application. 
+Do not remove any folder/file from the "NeuralTree" (extracted) folder.
+
+Contact:
+Please write to vkojha@ieee.org in case of malfunctioning on your system or further installation problems.
+
+
