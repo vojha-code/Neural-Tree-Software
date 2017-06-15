@@ -3,7 +3,7 @@ The Adaptive Approximation Software Toolbox (Neural Tree Algorithm) is a functio
 
 For understanding this software, please read
 
-# Research paper:
+# Research papers:
 
 
 1 Ensemble of Heterogeneous Flexible Neural Trees Using Multi- objective Genetic Programming
