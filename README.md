@@ -5,7 +5,6 @@ For understanding this software, please read
 
 # Research papers:
 
-
 <b> Ensemble of Heterogeneous Flexible Neural Trees Using Multi- objective Genetic Programming </b><br>
 http://www.sciencedirect.com/science/article/pii/S156849461630494X
 
