@@ -1,5 +1,5 @@
 # Neural-Tree-Software
-The Adaptive Approximation Software Toolbox (Neural Tree Algorithm) is a function approximation and feature selection tool that uses genetic programming for constructing tree like structure to construct an adaptive multi-layer perceptron. This standalone software toolbox solves prediction problems. The developed algorithm performs multiobjective in which it adaptively creates simple models with high generalization ability. 
+Software (Standalone): The Adaptive Approximation Software Toolbox (Neural Tree Algorithm) is a function approximation and feature selection tool that uses genetic programming for constructing tree like structure to construct an adaptive multi-layer perceptron. This standalone software toolbox solves prediction problems. The developed algorithm performs multiobjective in which it adaptively creates simple models with high generalization ability. 
 
 For understanding this software, please read
 
