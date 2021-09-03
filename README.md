@@ -31,6 +31,19 @@ APPLICATIONS:
 <b> Predictive modeling of die filling of the pharmaceutical granules using the flexible neural tree</b><br>
 https://link.springer.com/article/10.1007/s00521-016-2545-8
 
+```
+@article{ojha2018predictive,
+  title={Predictive modeling of die filling of the pharmaceutical granules using the flexible neural tree},
+  author={Ojha, Varun Kumar and Schiano, Serena and Wu, Chuan-Yu and Sn{\'a}{\v{s}}el, V{\'a}clav and Abraham, Ajith},
+  journal={Neural Computing and Applications},
+  volume={29},
+  number={7},
+  pages={467--481},
+  year={2018},
+  publisher={Springer}
+}
+```
+
 <b> Ensemble of Flexible Neural Trees for Predicting Risk in Grid Computing Environment </b> <br>
 https://link.springer.com/chapter/10.1007/978-3-319-28031-8_13
 
