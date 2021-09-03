@@ -14,6 +14,17 @@ http://www.sciencedirect.com/science/article/pii/S156849461630494X
 
 Machine learning algorithms are inherently multiobjective in nature, where approximation error minimization and model's complexity simplification are two conflicting objectives. We proposed a multiobjective genetic programming (MOGP) for creating a heterogeneous flexible neural tree (HFNT), tree-like flexible feedforward neural network model. The functional heterogeneity in neural tree nodes was introduced to capture a better insight of data during learning because each input in a dataset possess different features. MOGP guided an initial HFNT population towards Pareto-optimal solutions, where the final population was used for making an ensemble system. A diversity index measure along with approximation error and complexity was introduced to maintain diversity among the candidates in the population. Hence, the ensemble was created by using accurate, structurally simple, and diverse candidates from MOGP final population. Differential evolution algorithm was applied to fine-tune the underlying parameters of the selected candidates. A comprehensive test over classification, regression, and time-series datasets proved the efficiency of the proposed algorithm over other available prediction methods. Moreover, the heterogeneous creation of HFNT proved to be efficient in making ensemble system from the final population.
 
+```
+@article{ojha2017ensemble,
+  title={Ensemble of heterogeneous flexible neural trees using multiobjective genetic programming},
+  author={Ojha, Varun Kumar and Abraham, Ajith and Sn{\'a}{\v{s}}el, V{\'a}clav},
+  journal={Applied Soft Computing},
+  volume={52},
+  pages={909--924},
+  year={2017},
+  publisher={Elsevier}
+}
+```
 
 APPLICATIONS:
 
@@ -26,7 +37,7 @@ https://link.springer.com/chapter/10.1007/978-3-319-28031-8_13
 
 # Citation
 <br>
----
+```
 @misc{ojha2016,<br>
   author        = "Varun Ojha",<br>
   title         = "Neural-Tree-Software",<br>
@@ -35,4 +46,4 @@ https://link.springer.com/chapter/10.1007/978-3-319-28031-8_13
   howpublished  = "GitHub [Online]", <br>
   url           = "https://github.com/vojha-code/Neural-Tree-Software"<br>
 }
----
+```
