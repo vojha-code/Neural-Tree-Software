@@ -22,3 +22,15 @@ https://link.springer.com/article/10.1007/s00521-016-2545-8
 
 <b> Ensemble of Flexible Neural Trees for Predicting Risk in Grid Computing Environment </b> <br>
 https://link.springer.com/chapter/10.1007/978-3-319-28031-8_13
+
+
+# Citation
+
+@misc{ojha2016,
+  author        = "Varun Ojha",
+  title         = "Neural-Tree-Software",
+  month         = "Feb",
+  year          = "2016 ",
+  howpublished  = "GitHub [Online]", 
+  url           = "https://github.com/vojha-code/Neural-Tree-Software"
+}
