@@ -26,7 +26,7 @@ https://link.springer.com/chapter/10.1007/978-3-319-28031-8_13
 
 # Citation
 <br>
-
+---
 @misc{ojha2016,<br>
   author        = "Varun Ojha",<br>
   title         = "Neural-Tree-Software",<br>
@@ -35,3 +35,4 @@ https://link.springer.com/chapter/10.1007/978-3-319-28031-8_13
   howpublished  = "GitHub [Online]", <br>
   url           = "https://github.com/vojha-code/Neural-Tree-Software"<br>
 }
+---
