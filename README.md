@@ -25,12 +25,13 @@ https://link.springer.com/chapter/10.1007/978-3-319-28031-8_13
 
 
 # Citation
+<br>
 
-@misc{ojha2016,
-  author        = "Varun Ojha",
-  title         = "Neural-Tree-Software",
-  month         = "Feb",
-  year          = "2016 ",
-  howpublished  = "GitHub [Online]", 
-  url           = "https://github.com/vojha-code/Neural-Tree-Software"
+@misc{ojha2016,<br>
+  author        = "Varun Ojha",<br>
+  title         = "Neural-Tree-Software",<br>
+  month         = "Feb",<br>
+  year          = "2016 ",<br>
+  howpublished  = "GitHub [Online]", <br>
+  url           = "https://github.com/vojha-code/Neural-Tree-Software"<br>
 }
